@@ -1,0 +1,59 @@
+Smiley No,Smiley,Face,Head,Eye Brow,Eye,Mouth,Lips,Teeth,Tongue,Emo_Class,Emo_Class_Intensity,Chromosome,Reason,Features
+e1,,1,2,4,3,3,7,2,3,Happiness,h2,12433723,might be it will take the senence to mischievousness So h2 and not h3,LCH
+e2,,2,2,4,2,3,6,2,3,Happiness,h2,22423623,,LC
+e3,,1,2,3,1,3,6,2,3,Happiness,h2,12313623,,LC
+e4,,1,2,3,2,3,6,2,3,Happiness,h2,12323623,,LC
+e5,,1,2,3,3,1,1,2,1,Naughty,ny3,12331121,it perfectly represents mischieve,EOC and TO
+e6,,1,2,3,5,1,1,2,1,Happiness,h3,12351121,it perfectly represents happiness,ETC and TO
+e7,,1,2,3,1,1,1,2,1,Naughty,ny3,12311121,Mischieve or u r teasing someone but ur feelings are innocent reflected through open eyes,EO and TO
+e8,,1,2,3,2,2,3,3,3,Disgusting,d3,12322333,it perfectly represents disgust,EC and LS and TFS
+e9,,1,2,3,2,1,1,1,3,Happiness,h1,12321113,reflects light mood of Happiness so h1,EC and MO and LU
+e10,,1,2,3,1,1,1,1,3,Happiness,h1,12311113,,EO and MO and LU
+e11,,2,2,4,2,2,1,2,3,Happiness,h1,22422123,,FCBL and LU
+e12,,2,2,4,2,2,5,2,3,Happiness,h1,22422523,,FCBL and LUS
+e13,,1,2,4,3,2,5,2,3,Naughty,ny2,12432523,reflects a perfect mischievoous mood so ny2,EOC and LUS
+e14,,1,2,4,6,1,1,2,3,Naughty,ny2,12461123,flirty mood,EHS
+e15,,2,2,4,1,1,3,2,3,Surprise,sr2,22411323,Shocked,FCBL and EO and LS
+e16,,2,2,4,9,1,3,2,3,Happiness,h1,22491323,Enjoying situation,FCBL and EOS and LU
+e17,,1,2,2,2,1,3,2,3,Sad,s1,12221323,Sad mood,EIS and EC and LS
+e18,,1,2,4,2,1,5,2,3,Happiness,h1,12421523,Satisfied mood,EC and LUS
+e19,,1,2,4,1,1,2,2,3,Sad,s1,12411223,Nervous mood,EO and LD
+e20,,1,2,3,2,3,2,2,3,Sad,s1,12323223,Depressed,EC and LD
+e21,,1,2,2,5,2,2,2,3,Sad,s3,12252223,Exhausted,ETC and LD
+e22,,1,2,2,4,3,2,2,3,Sad,s2,12243223,Just about to cry,EWT and LD
+e23,,1,2,3,4,1,1,1,3,Happiness,h3,12341113,Laughter,EWT and LU
+e24,,1,2,2,4,1,2,1,3,Sad,s3,12241213,burst into tears or weep so s3,EWT and LD
+e25,,6,2,2,2,2,2,2,3,Sad,s3,62222223,Exhausted and fatigueness so s3,FWS and LD
+e26,,6,2,2,1,2,2,2,3,Fear,f2,62212223,Fear causing sweat so f2,FWS and EO and LD  
+e27,,3,2,2,1,2,2,2,3,Fear,f3,32212223,Face blue color decide next levels intensity of fear so f3,FCB and EO and LD  
+e28,,6,2,3,2,1,1,1,3,Happiness,h2,62321113,Sweat with smile represents happiness of satisfaction,FWS and LU
+e29,,6,2,4,2,2,2,2,3,Sad,s2,62422223,Deeply Sad ,FWS and EC and LD
+e30,,1,2,2,2,1,2,1,3,Sad,s3,12221213,Yell in weep,EIS and MO and LD
+e31,,1,2,2,5,1,2,1,3,Sad,s3,12251213,,ETC and MO and LD
+e32,,3,2,4,1,1,2,2,3,Fear,f2,32411223,Blue color with open mouth represent next level of fear,FCB and MO and LD
+e33,,3,2,3,1,1,4,2,3,Surprise,sr3,32311423,Horrified,FCB and MO
+e34,,1,2,1,1,2,2,2,3,Anger,a1,12112223,first level anger,ECI and LD
+e35,,4,2,1,1,2,2,2,3,Anger,a2,42112223,next level anger color changes to red,FCR
+e36,,1,2,1,2,2,2,2,3,Anger,a3,12122223,angry like a bull,ECI and EC
+e37,,1,2,2,2,2,2,2,3,Sad,s3,12222223,Weird situation,ETC and LD
+e38,,1,2,3,5,1,1,1,3,Happiness,h3,12351113,Extremely Happy,ETC and LU
+e39,,1,2,3,2,2,1,2,2,Happiness,h2,12322122,Small tongue outside represents a madness with innocence,TOS
+e40,,2,2,4,8,3,4,2,3,Sad,s2,22483423,illness ,MN and LN
+e41,,1,2,3,7,2,1,2,3,Happiness,h1,12372123,Lighter mood,EG
+e42,,1,2,3,2,1,4,2,3,Neutral,n1,12321423,sleep not considered for exressing emotion class,MO
+e43,,1,2,4,5,1,4,2,3,Neutral,n1,12451423,,ETC and MO
+e44,,1,2,4,5,1,4,1,3,Neutral,n1,12451413,,ETC and MO and TS
+e45,,1,2,2,1,2,2,2,3,Sad,s2,12212223,deeply upset,ENR and EO and LD
+e46,,1,2,3,1,1,2,2,3,Surprise,sr2,12311223,deeply shocked,EN and EO and LD
+e47,,1,2,2,1,1,2,2,3,Fear,f2,12211223,terrified,EO and LD and MO
+e48,,5,4,1,1,2,1,2,3,Disgusting,d1,54112123,eye browse curved inside and LU shows devil mind,FCP and LU
+e49,,5,4,1,1,2,2,2,3,Anger,a3,54112223,purple color indicates next level of anger,FCP and LD
+e50,,1,2,3,1,1,4,2,3,Surprise,sr2,12311423,Frightened,EN and EO and MO
+e51,,1,2,3,1,2,3,3,3,Disgusting,d2,12312333,though teeth are fully shown but eyes are opened,TFS and LS and EO
+e52,,1,2,3,1,2,3,2,3,Sad,s1,12312323,Speechless but lips shows lower intensity,EO and LS
+e53,,1,2,3,1,2,2,2,3,Sad,s1,12312223,Sad mood,EO and LD
+e54,,1,2,4,1,1,4,2,3,Surprise,sr2,12411423,Frightened,ENR and EO and MO
+e55,,1,1,3,1,3,4,2,3,Sad,s1,11313423,Speechless but lips shows higher intensity,EO and LN
+e56,,1,1,3,2,2,1,2,3,Happiness,h1,11322123,Halo on the head represents peace,HA
+e57,,1,2,4,1,2,8,2,3,Sad,s3,12412823,Chaff,LA
+e58,,1,2,3,2,2,3,2,3,Sad,s2,12322323,straight position of eyes and lips represents higher level intensity of sadness,EC and LS
